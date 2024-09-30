@@ -7,8 +7,15 @@ Xmart学生论坛作为其中一个系列，致力于邀请国内外知名高校
 
 ## 往期论坛回放
 
-| 日期 | 主讲人| 标题 | 时长 | 视频链接 |
-| -- | -- | -- | -- | -- |
-| 2024/9/30 （第三期） | 胡宇晨|语音大模型的后训练对齐| 1h35min| [bilibili录播](https://www.bilibili.com/)|
-| 2024/7/03 （第二期） |邓克琦|Label-synchronous Neural Transducer| 1h35min| [bilibili录播](https://www.bilibili.com/video/BV1qihreEE6L/?spm_id_from=333.999.0.0&vd_source=206566e58b9a1dbba8404cfac33ee816)|
-| 2024/6/12 （第一期） |张栋|构造端到端语音对话大模型| 1h25min| [bilibili录播](https://www.bilibili.com/video/BV1FJ4m137ZB/?spm_id_from=333.999.0.0&vd_source=206566e58b9a1dbba8404cfac33ee816)|
+| 日期 | 主讲人| 标题 | 时长 | 视频链接 | slides |
+| -- | -- | -- | -- | -- | -- |
+| 2024/9/30 （第三期） | 胡宇晨|语音大模型的后训练对齐| 1h35min| [bilibili录播](https://www.bilibili.com/)| -- |
+| 2024/7/03 （第二期） |邓克琦|Label-synchronous Neural Transducer| 1h35min| [bilibili录播](https://www.bilibili.com/video/BV1qihreEE6L/?spm_id_from=333.999.0.0&vd_source=206566e58b9a1dbba8404cfac33ee816)|-- |
+| 2024/6/12 （第一期） |张栋|构造端到端语音对话大模型| 1h25min| [bilibili录播](https://www.bilibili.com/video/BV1FJ4m137ZB/?spm_id_from=333.999.0.0&vd_source=206566e58b9a1dbba8404cfac33ee816)|-- |
+
+## 关于我们
+上海交通大学跨媒体语言智能实验室（SJTU Cross Media Language Intelligence Lab, X-LANCE）成立于2012年，前身是“智能语音实验室”（SpeechLab），经过多年发展，成为了涵盖视听文语言信息处理核心各研究领域的“跨模态语言智能实验室”。目前，跨媒体语言智能实验室的教师组有一位教授、四位副教授和一位科研助理，拥有二十余名博士研究生，近四十名硕士研究生，还包括ACM班、AI班、IEEE班、电院CS等专业、巴黎卓越工程师学院、密西根学院等的三十余名本科生。
+
+实验室获得了包括国家重点研发计划、自然科学基金委优秀青年科学基金在内的诸多国家和企业项目支持。实验室与思必驰科技股份有限公司深度合作，成立了“上海交通大学思必驰智能人机交互联合实验室”。实验室可调动丰富的数据资源以及多达数百块H800、A800、A10等GPU卡的丰富计算资源，是国际上极少数可以进行产业级大尺度数据分析和研究的人工智能实验室之一。
+
+X-LANCE实验室致力于做能够改变世界的国际水平的技术研究，实验室的学术信条：要用技术改变世界，首先必须是一个优秀的工程师；而一个杰出的工程师一定是一位科学家。
