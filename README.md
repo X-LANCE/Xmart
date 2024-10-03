@@ -9,7 +9,8 @@ Xmart学生论坛作为其中一个系列，致力于邀请国内外知名高校
 
 | 日期 | 主讲人| 标题 | 时长 | 视频链接 | slides |
 | -- | -- | -- | -- | -- | -- |
-| 2024/9/30 （第三期） | 胡宇晨 |语音大模型的后训练对齐| 1h35min| [bilibili录播](https://www.bilibili.com/)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_forum_ntu_yuchenhu_09302024.pdf) |
+| 2024/9/30 （第四期） | 胡宇晨 |语音大模型的后训练对齐| 1h23min| [bilibili录播](https://www.bilibili.com/video/BV1uzxeevEb8/?spm_id_from=333.788&vd_source=206566e58b9a1dbba8404cfac33ee816)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_forum_ntu_yuchenhu_09302024.pdf) |
+| 2024/8/20 （第三期） | 敖君逸 |SD-Eval新基准，让语音交互大模型情智兼备| 1h07min| [bilibili录播](https://www.bilibili.com/video/BV1hixeeqEkQ/?spm_id_from=333.788&vd_source=206566e58b9a1dbba8404cfac33ee816)| -- |
 | 2024/7/03 （第二期） | 邓克琦 |Label-synchronous Neural Transducer| 1h35min| [bilibili录播](https://www.bilibili.com/video/BV1qihreEE6L/?spm_id_from=333.999.0.0&vd_source=206566e58b9a1dbba8404cfac33ee816)| -- |
 | 2024/6/12 （第一期） | 张栋 |构造端到端语音对话大模型| 1h25min| [bilibili录播](https://www.bilibili.com/video/BV1FJ4m137ZB/?spm_id_from=333.999.0.0&vd_source=206566e58b9a1dbba8404cfac33ee816)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_forum_fudan_dongzhang_speechgpt_series_sjtu.pdf) |
 
