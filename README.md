@@ -9,7 +9,7 @@ Xmart学生论坛作为其中一个系列，致力于邀请国内外知名高校
 
 | 日期 | 主讲人| 标题 | 时长 | 视频链接 | slides |
 | -- | -- | -- | -- | -- | -- |
-| 2024/10/11 （第五期） | 谢天宝 |OSWorld：在真实计算机环境中对开放式任务进行多模态智能体基准测试| 1h23min| [录播](https://www.bilibili.com)| [slides](https://github.com/X-LANCE/Xmart) |
+| 2024/10/11 （第五期） | 谢天宝 |OSWorld：在真实计算机环境中对开放式任务进行多模态智能体基准测试| 1h23min| [录播](https://www.bilibili.com)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/OSWorld_hku_tianbao_Xmart%20-%202024.10.11.pdf) |
 | 2024/9/30 （第四期） | 胡宇晨 |语音大模型的后训练对齐| 1h23min| [录播](https://www.bilibili.com/video/BV1uzxeevEb8/?spm_id_from=333.788&vd_source=206566e58b9a1dbba8404cfac33ee816)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_forum_ntu_yuchenhu_09302024.pdf) |
 | 2024/8/20 （第三期） | 敖君逸 |SD-Eval新基准，让语音交互大模型情智兼备| 1h07min| [录播](https://www.bilibili.com/video/BV1hixeeqEkQ/?spm_id_from=333.788&vd_source=206566e58b9a1dbba8404cfac33ee816)| -- |
 | 2024/7/03 （第二期） | 邓克琦 |Label-synchronous Neural Transducer| 1h35min| [录播](https://www.bilibili.com/video/BV1qihreEE6L/?spm_id_from=333.999.0.0&vd_source=206566e58b9a1dbba8404cfac33ee816)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_keqideng_LS-Transducer_Talk_Final.pdf) |
