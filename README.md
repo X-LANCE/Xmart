@@ -9,11 +9,12 @@ Xmart学生论坛作为其中一个系列，致力于邀请国内外知名高校
 
 | 日期 | 主讲人| 标题 | 时长 | 视频链接 | slides |
 | -- | -- | -- | -- | -- | -- |
-| 2024/10/11 （第五期） | 谢天宝 |OSWorld：在真实计算机环境中对开放式任务进行多模态智能体基准测试| 1h23min| [录播](https://www.bilibili.com)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/OSWorld_hku_tianbao_Xmart%20-%202024.10.11.pdf) |
-| 2024/9/30 （第四期） | 胡宇晨 |语音大模型的后训练对齐| 1h23min| [录播](https://www.bilibili.com/video/BV1uzxeevEb8/?spm_id_from=333.788&vd_source=206566e58b9a1dbba8404cfac33ee816)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_forum_ntu_yuchenhu_09302024.pdf) |
-| 2024/8/20 （第三期） | 敖君逸 |SD-Eval新基准，让语音交互大模型情智兼备| 1h07min| [录播](https://www.bilibili.com/video/BV1hixeeqEkQ/?spm_id_from=333.788&vd_source=206566e58b9a1dbba8404cfac33ee816)| -- |
-| 2024/7/03 （第二期） | 邓克琦 |Label-synchronous Neural Transducer| 1h35min| [录播](https://www.bilibili.com/video/BV1qihreEE6L/?spm_id_from=333.999.0.0&vd_source=206566e58b9a1dbba8404cfac33ee816)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_keqideng_LS-Transducer_Talk_Final.pdf) |
-| 2024/6/12 （第一期） | 张栋 |构造端到端语音对话大模型| 1h25min| [录播](https://www.bilibili.com/video/BV1FJ4m137ZB/?spm_id_from=333.999.0.0&vd_source=206566e58b9a1dbba8404cfac33ee816)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_forum_fudan_dongzhang_speechgpt_series_sjtu.pdf) |
+| 2024/11/10 （第六期） | 刘濠赫 |Latent Diffusion Model as a Versatile Coarse-to-Fine Audio Decoder| 1h3min| [录播](https://www.bilibili.com/video/BV1JjmBYYEoW)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_6_haoheliu-talk.pdf) |
+| 2024/10/11 （第五期） | 谢天宝 |OSWorld：在真实计算机环境中对开放式任务进行多模态智能体基准测试| 1h17min| [录播](https://www.bilibili.com/video/BV1CpyNYBE6o)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/OSWorld_hku_tianbao_Xmart%20-%202024.10.11.pdf) |
+| 2024/9/30 （第四期） | 胡宇晨 |语音大模型的后训练对齐| 1h23min| [录播](https://www.bilibili.com/video/BV1uzxeevEb8)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_forum_ntu_yuchenhu_09302024.pdf) |
+| 2024/8/20 （第三期） | 敖君逸 |SD-Eval新基准，让语音交互大模型情智兼备| 1h07min| [录播](https://www.bilibili.com/video/BV1hixeeqEkQ)| -- |
+| 2024/7/03 （第二期） | 邓克琦 |Label-synchronous Neural Transducer| 1h35min| [录播](https://www.bilibili.com/video/BV1qihreEE6L)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_keqideng_LS-Transducer_Talk_Final.pdf) |
+| 2024/6/12 （第一期） | 张栋 |构造端到端语音对话大模型| 1h25min| [录播](https://www.bilibili.com/video/BV1FJ4m137ZB)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_forum_fudan_dongzhang_speechgpt_series_sjtu.pdf) |
 
 ## 关于我们
 上海交通大学跨媒体语言智能实验室（SJTU Cross Media Language Intelligence Lab, X-LANCE）成立于2012年，前身是“智能语音实验室”（SpeechLab），经过多年发展，成为了涵盖视听文语言信息处理核心各研究领域的“跨模态语言智能实验室”。目前，跨媒体语言智能实验室的教师组有一位教授、四位副教授和一位科研助理，拥有二十余名博士研究生，近四十名硕士研究生，还包括ACM班、AI班、IEEE班、电院CS等专业、巴黎卓越工程师学院、密西根学院等的三十余名本科生。
