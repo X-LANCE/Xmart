@@ -9,7 +9,7 @@ Xmart学生论坛作为其中一个系列，致力于邀请国内外知名高校
 
 | 日期 | 主讲人| 标题 | 时长 | 视频链接 | slides |
 | -- | -- | -- | -- | -- | -- |
-| 2024/12/17 （第七期） | 郭子睿 |从检索增强生成到图增强生成：探索新一代智能问答系统| 1h3min| [录播](https://www.bilibili.com/)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/) |
+| 2024/12/17 （第七期） | 郭子睿 |从检索增强生成到图增强生成：探索新一代智能问答系统| 1h3min| [录播](https://www.bilibili.com/video/BV137kJYHEoC/)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_7_ziruiguo.pdf) |
 | 2024/11/10 （第六期） | 刘濠赫 |Latent Diffusion Model as a Versatile Coarse-to-Fine Audio Decoder| 1h3min| [录播](https://www.bilibili.com/video/BV1JjmBYYEoW)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_6_haoheliu-talk.pdf) |
 | 2024/10/11 （第五期） | 谢天宝 |OSWorld：在真实计算机环境中对开放式任务进行多模态智能体基准测试| 1h17min| [录播](https://www.bilibili.com/video/BV1CpyNYBE6o)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/OSWorld_hku_tianbao_Xmart%20-%202024.10.11.pdf) |
 | 2024/9/30 （第四期） | 胡宇晨 |语音大模型的后训练对齐| 1h23min| [录播](https://www.bilibili.com/video/BV1uzxeevEb8)| [slides](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_forum_ntu_yuchenhu_09302024.pdf) |
