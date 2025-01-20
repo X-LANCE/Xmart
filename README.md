@@ -12,6 +12,7 @@ Xmart前沿讲座是人工智能方向的重要选修课，面向有一定人工
 
 | 日期 | 主讲人| 标题 | 时长 | 视频链接 | 讲义 |
 | -- | -- | -- | -- | -- | -- |
+| 2025/1/16 （第九期） | 张绍磊 |迈向实时跨语言沟通：实时语音模型的挑战、技术和未来| 1h24min| [BiliBili](https://www.bilibili.com/video/BV15nwLeaEU1)| [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_9_shaolei.pdf) |
 | 2024/12/19 （第八期） | 肖俊斌、李磊磊 |面向第一视角的问题研究与展望| 1h21min| [BiliBili](https://www.bilibili.com/video/BV1Ftk1Y6Ehs)| -- |
 | 2024/12/17 （第七期） | 郭子睿 |从检索增强生成到图增强生成：探索新一代智能问答系统| 1h3min| [BiliBili](https://www.bilibili.com/video/BV137kJYHEoC)| [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_7_ziruiguo.pdf) |
 | 2024/11/10 （第六期） | 刘濠赫 |Latent Diffusion Model as a Versatile Coarse-to-Fine Audio Decoder| 1h3min| [BiliBili](https://www.bilibili.com/video/BV1JjmBYYEoW)| [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_6_haoheliu-talk.pdf) |
