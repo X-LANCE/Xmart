@@ -12,6 +12,7 @@ Xmart前沿讲座是人工智能方向的重要选修课，面向有一定人工
 
 | 日期 | 主讲人| 标题 | 时长 | 视频链接 | 讲义 |
 | -- | -- | -- | -- | -- | -- |
+| 2025/2/28 （第十期） | 袁锐斌 |Scaling Open Foundation Models for Music| 2h11min| [BiliBili](https://www.bilibili.com/video/BV1rU9EYhEx3)| [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_10_ruibin.pdf) |
 | 2025/1/16 （第九期） | 张绍磊 |迈向实时跨语言沟通：实时语音模型的挑战、技术和未来| 1h24min| [BiliBili](https://www.bilibili.com/video/BV15nwLeaEU1)| [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_9_shaolei.pdf) |
 | 2024/12/19 （第八期） | 肖俊斌、李磊磊 |面向第一视角的问题研究与展望| 1h21min| [BiliBili](https://www.bilibili.com/video/BV1Ftk1Y6Ehs)| -- |
 | 2024/12/17 （第七期） | 郭子睿 |从检索增强生成到图增强生成：探索新一代智能问答系统| 1h3min| [BiliBili](https://www.bilibili.com/video/BV137kJYHEoC)| [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_7_ziruiguo.pdf) |
@@ -26,6 +27,7 @@ Xmart前沿讲座是人工智能方向的重要选修课，面向有一定人工
 
 | 日期 | 主讲人| 标题 | 时长 | 视频链接 | 讲义 |
 | -- | -- | -- | -- | -- | -- |
+| 2025/02/20 （第七期） | 许可乐 |面向声音理解的多模态机器学习| 1h3min| [BiliBili](https://www.bilibili.com/video/BV1zX9EYZELX)| -- |
 | 2024/12/30 （第六期） | 卢策吾 |具身智能scaling law与可规模化数据| 1h35min| [BiliBili](https://www.bilibili.com/video/BV1hc6JYLE11/)| -- |
 | 2024/12/17 （第五期） | 王文武 |大型语言-音频模型及其应用| 1h41min| [BiliBili](https://www.bilibili.com/video/BV1k7knYgEXT)| -- |
 | 2024/12/10 （第四期） | 邱锡鹏 |从大语言模型到世界模型| 1h28min| [BiliBili](https://www.bilibili.com/video/BV1AJqGYuEZa)| -- |
