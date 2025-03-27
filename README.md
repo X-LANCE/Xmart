@@ -12,6 +12,7 @@ Xmart前沿讲座是人工智能方向的重要选修课，面向有一定人工
 
 | 日期 | 主讲人| 标题 | 时长 | 视频链接 | 讲义 |
 | -- | -- | -- | -- | -- | -- |
+| 2025/3/27 （第十一期） | 季圣鹏 |端到端语音对话时代的机遇和挑战| 2h11min| [BiliBili](https://www.bilibili.com/video/BV1rU9EYhEx3)| [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart11_jishengpeng.pdf) |
 | 2025/2/28 （第十期） | 袁锐斌 |Scaling Open Foundation Models for Music| 2h11min| [BiliBili](https://www.bilibili.com/video/BV1rU9EYhEx3)| [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_10_ruibin.pdf) |
 | 2025/1/16 （第九期） | 张绍磊 |迈向实时跨语言沟通：实时语音模型的挑战、技术和未来| 1h24min| [BiliBili](https://www.bilibili.com/video/BV15nwLeaEU1)| [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_9_shaolei.pdf) |
 | 2024/12/19 （第八期） | 肖俊斌、李磊磊 |面向第一视角的问题研究与展望| 1h21min| [BiliBili](https://www.bilibili.com/video/BV1Ftk1Y6Ehs)| -- |
