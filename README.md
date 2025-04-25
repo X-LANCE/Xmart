@@ -5,7 +5,7 @@
 - [往期前沿讲座回放](#往期前沿讲座回放)
 - [关于我们](#关于我们)
 
-## 📖 介绍
+## 介绍
 
 Xmart青年论坛由 **上海交通大学跨媒体语言智能实验室**（*SJTU X-LANCE lab*）创办，中国计算机学会语音对话专委会主办，语音之家，华为思琢社区协办，旨在邀请国内外优秀的青年学者分享最新科研工作和成果，促进多元且深入的交流与合作。我们主要分为**Xmart学生论坛**和**Xmart前沿讲座**两部分
 
@@ -19,10 +19,11 @@ Xmart青年论坛由 **上海交通大学跨媒体语言智能实验室**（*SJT
 
 ---
 
-## 🎥 往期学生论坛回放
+## 往期学生论坛回放
 
 | 日期 | 主讲人 | 标题 | 时长 | 视频链接 | 讲义 |
 |:----:|:------:|:----:|:----:|:---------:|:----:|
+| 2025/4/25 （第十二期） | 周俊佐、任勇 | 语音的可溯源保护：音频水印研究 | 2h11min | [BiliBili](https://www.bilibili.com) | [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart12_zhoujunzuo_renyong.pdf) |
 | 2025/3/27 （第十一期） | 季圣鹏 | 端到端语音对话时代的机遇和挑战 | 2h11min | [BiliBili](https://www.bilibili.com/video/BV1FaZGYXEdc) | [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart11_jishengpeng.pdf) |
 | 2025/2/28 （第十期） | 袁锐斌 | Scaling Open Foundation Models for Music | 2h11min | [BiliBili](https://www.bilibili.com/video/BV1rU9EYhEx3) | [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_10_ruibin.pdf) |
 | 2025/1/16 （第九期） | 张绍磊 | 迈向实时跨语言沟通：实时语音模型的挑战、技术和未来 | 1h24min | [BiliBili](https://www.bilibili.com/video/BV15nwLeaEU1) | [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_9_shaolei.pdf) |
@@ -37,7 +38,7 @@ Xmart青年论坛由 **上海交通大学跨媒体语言智能实验室**（*SJT
 
 ---
 
-## 🎙️ 往期前沿讲座回放
+## 往期前沿讲座回放
 
 | 日期 | 主讲人 | 标题 | 时长 | 视频链接 | 讲义 |
 |:----:|:------:|:----:|:----:|:---------:|:----:|
@@ -51,7 +52,7 @@ Xmart青年论坛由 **上海交通大学跨媒体语言智能实验室**（*SJT
 
 ---
 
-## 🏫 关于我们
+## 关于我们
 
 **上海交通大学跨媒体语言智能实验室** （SJTU Cross Media Language Intelligence Lab, X-LANCE）
 实验室成立于2012年，前身是“智能语音实验室”（SpeechLab），经过多年发展，成为了涵盖视听文语言信息处理核心各研究领域的“跨模态语言智能实验室”。目前，跨媒体语言智能实验室的教师组有一位教授、四位副教授和一位科研助理，拥有二十余名博士研究生，近四十名硕士研究生，还包括ACM班、AI班、IEEE班、电院CS等专业、巴黎卓越工程师学院、密西根学院等的三十余名本科生。
