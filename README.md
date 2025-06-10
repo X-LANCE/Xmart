@@ -23,6 +23,7 @@ Xmart青年论坛由 **上海交通大学跨媒体语言智能实验室**（*SJT
 
 | 日期 | 主讲人 | 标题 | 时长 | 视频链接 | 讲义 |
 |:----:|:------:|:----:|:----:|:---------:|:----:|
+| 2025/6/6 （第十三期） | 杨东超 |  Towards Multi-task Audio Foundation Models: An Audio Generation Perspective | 1h30min | -- | -- |
 | 2025/4/25 （第十二期） | 周俊佐、任勇 | 语音的可溯源保护：音频水印研究 | 2h11min | [BiliBili](https://www.bilibili.com/video/BV1EuL7zNEHH) | [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart12_zhoujunzuo_renyong.pdf) |
 | 2025/3/27 （第十一期） | 季圣鹏 | 端到端语音对话时代的机遇和挑战 | 2h11min | [BiliBili](https://www.bilibili.com/video/BV1FaZGYXEdc) | [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart11_jishengpeng.pdf) |
 | 2025/2/28 （第十期） | 袁锐斌 | Scaling Open Foundation Models for Music | 2h11min | [BiliBili](https://www.bilibili.com/video/BV1rU9EYhEx3) | [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_10_ruibin.pdf) |
