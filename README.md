@@ -23,7 +23,8 @@ Xmart青年论坛由 **上海交通大学跨媒体语言智能实验室**（*SJT
 
 | 日期 | 主讲人 | 标题 | 时长 | 视频链接 | 讲义 |
 |:----:|:------:|:----:|:----:|:---------:|:----:|
-| 2025/9/3 （第十五期） | Heinrich Dinkel | Scalable Methods for General Audio Understanding| 1h59min | [BiliBili](https://www.bilibili.com/video/) | [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart15_heinrich_midashengLM.pdf) |
+| 2025/10/25 （第十六期） | 姚继珣 | 歌曲生成与评估体系的研究 | 1h10min | [BiliBili](https://www.bilibili.com/video/BV1T6nCzqEmF) | [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart16_aslp.pdf) |
+| 2025/9/3 （第十五期） | Heinrich Dinkel | Scalable Methods for General Audio Understanding| 1h59min | [BiliBili]([https://www.bilibili.com/video/](https://www.bilibili.com/video/BV1qQpKzHEKY)) | [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart15_heinrich_midashengLM.pdf) |
 | 2025/6/26 （第十四期） | 王远程 | Towards Natural and Efficient Speech Synthesis: Perspectives on Modeling, Alignment, and Representation | 1h59min | [BiliBili](https://www.bilibili.com/video/BV1FuKzzGEq3) | [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart14_yuanchengwang_Towards_Natural_and_Efficient_Speech_Synthesis_20250626.pdf) |
 | 2025/6/6 （第十三期） | 杨东超 |  Towards Multi-task Audio Foundation Models: An Audio Generation Perspective | 1h30min | -- | -- |
 | 2025/4/25 （第十二期） | 周俊佐、任勇 | 语音的可溯源保护：音频水印研究 | 2h11min | [BiliBili](https://www.bilibili.com/video/BV1EuL7zNEHH) | [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart12_zhoujunzuo_renyong.pdf) |
