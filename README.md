@@ -23,6 +23,7 @@ Xmart青年论坛由 **上海交通大学跨媒体语言智能实验室**（*SJT
 
 | 日期 | 主讲人 | 标题 | 时长 | 视频链接 | 讲义 |
 |:----:|:------:|:----:|:----:|:---------:|:----:|
+| 2025/12/18 （第十九期） | 姜成翰 |赋予口语语言模型思考能力| 1h22min | [BiliBili](https://www.bilibili.com/) | [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_19_chenghanjiang.pdf) |
 | 2025/11/28 （第十八期） | 陈麒光 |迈向推理时代：长思维链机理及应用| 1h12min | [BiliBili](https://www.bilibili.com/video/BV1mqSiBqEFN) | [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_18_qiguangchen_%E9%95%BF%E6%80%9D%E7%BB%B4%E9%93%BE%E7%9A%84%E6%9C%BA%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8-Final_compressed.pdf) |
 | 2025/10/23 （第十七期） | 于文一 |通用音频大模型：从"通用感知"到"听说一体"| 1h14min | [BiliBili](https://www.bilibili.com/video/BV1Acsnz6EVL) | [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart_17_thu_wenyi.pdf) |
 | 2025/9/25 （第十六期） | 姚继珣 | 歌曲生成与评估体系的研究 | 1h10min | [BiliBili](https://www.bilibili.com/video/BV1T6nCzqEmF) | [讲义](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart16_aslp.pdf) |
